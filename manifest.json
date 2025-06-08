@@ -1,0 +1,8 @@
+{
+  "short_name": "albecas100",
+  "name": "albecas100",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
